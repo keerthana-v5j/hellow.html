@@ -99,7 +99,7 @@
     <form class="requires-validation" novalidate>
     <div class="form">
       <div class="note">
-        <h1> Bootstrap 4 Registration Form Example. </h1>
+        <h1> Registration Form  </h1>
       </div>
       <div class="form-content" >
         <div class="row">
